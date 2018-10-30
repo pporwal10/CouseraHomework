@@ -1,6 +1,6 @@
 # Guessing Game Bash Script for Unix Workbench
 
-* This Make file was ran at: $(shell date +%Y-%m-%d:%H:%M:%S)
+* This Make file was ran at: 2018-10-30:21:14:31
 
-* There were $(shell wc -l < guessinggame.sh) lines in guessinggame.sh
+* There were 55 lines in guessinggame.sh
 
